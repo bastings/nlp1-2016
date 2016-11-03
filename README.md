@@ -17,5 +17,5 @@ You can also install the packages separately. We will need:
 - jupyter notebook - installation instructions: https://jupyter.readthedocs.io/en/latest/install.html
 - python2.7 or python3.5 (installation depends on your OS)
 - matplotlib -- use `pip install matplotlib` or `pip3 install matplotlib`
-
+- numpy 
 
